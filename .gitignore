@@ -1,0 +1,9 @@
+__pycache__/
+database.db
+
+# Virtual environment
+env/
+venv/
+
+# Environment variables
+.env
